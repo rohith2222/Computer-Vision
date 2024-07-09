@@ -13,3 +13,6 @@ python task1.py --alpha 45 --beta 30 --gamma 50
 ```bash
 python task2.py
 ```
+**Output Results**
+Result_task1.json
+Result_task2.json
