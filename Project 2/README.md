@@ -1,6 +1,6 @@
 # Face
 **CSE 473/573 Face Detection and Recognition Project.**
-#### <font color=red>You can only use opencv 4.5.4 for this project.</font>
+#### <font color=red>opencv 4.5.4 for this project.</font>
 
 
 **task 1 validation set**
